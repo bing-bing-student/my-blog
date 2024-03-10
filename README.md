@@ -1,4 +1,5 @@
 # my-blog
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +28,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+这是一个基于 Vue 3 和 Element Plus 等第三方组件搭建的博客网站前端项目
+>>>>>>> 0a583431f456482627d45a0cdd87561ec21a379e
